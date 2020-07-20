@@ -1,0 +1,5 @@
+name: 'USOC github action'
+description: 'Github action for the USOC respority'
+runs:
+  using: 'node12'
+  main: 'index.js'
